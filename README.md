@@ -26,6 +26,8 @@ You are allowed to use, modify, or build upon this code **only if**:
 
 This project is shared with good intentions — please honor that and use it in a way that brings benefit, not harm.
 
+
+
 ---
 
 ## 🔧 Tech Stack
